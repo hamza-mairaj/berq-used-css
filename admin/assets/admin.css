@@ -1,0 +1,22 @@
+.bqucss-wrap h1 {
+    margin-bottom: 20px;
+}
+
+.bqucss-wrap .form-table th {
+    width: 220px;
+}
+
+.bqucss-wrap textarea.code {
+    font-family: monospace;
+    font-size: 13px;
+}
+
+#bqucss-clear-status {
+    font-size: 13px;
+    font-style: italic;
+    color: #2271b1;
+}
+
+#bqucss-clear-status.error {
+    color: #d63638;
+}

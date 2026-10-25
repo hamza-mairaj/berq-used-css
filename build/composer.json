@@ -1,0 +1,16 @@
+{
+    "name": "berqwp/berq-used-css-deps",
+    "description": "Scoped dependencies for Berq Used CSS",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "classmap": ["vendor/"]
+    },
+    "config": {
+        "platform": {
+            "php": "7.4.0"
+        },
+        "optimize-autoloader": true
+    }
+}
